@@ -68,13 +68,15 @@ def validate_info():
     if " " in email:
         email_error = 'Your email can not contain spaces'
 
-    if "@" not in email:
+    if email != "" and "@" not in email:
         email_error = 'Invalid email address, must include a "@".'
 
-    if "." not in email:
+    if email != "" and "." not in email:
         email_error = 'Invalid email address, must include a "."'
 
-    if not email_error:
+    
+
+    if not password_error and not username_error and not email_error:
         return render_template ('welcome.html', username = username)
     else:
         return render_template('index.html', username_error= username_error, password_error=password_error, email_error = email_error)
