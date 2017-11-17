@@ -1,0 +1,41 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.1920.-840.1080.1920@120dpi" x="2155" y="-248" />
+    <location key="new project wizard.1920.-840.1080.1920@120dpi" x="2050" y="-423" />
+    <location key="WELCOME_SCREEN.1920.-840.1080.1920@120dpi" x="2462" y="-103" />
+    <location key="com.intellij.ide.util.TipDialog.1920.-840.1080.1920@120dpi" x="2283" y="83" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.1920.-840.1080.1920@120dpi" x="1920" y="-409" />
+    <location key="SettingsEditor.1920.-840.1080.1920@120dpi" x="1920" y="-58" />
+    <location key="FileChooserDialogImpl.0.0.1920.1080@120dpi" x="786" y="187" />
+    <location key="GitCloneDialog.0.0.1920.1080@120dpi" x="661" y="339" />
+    <location key="NewModule_or_Project.wizard.0.0.1920.1080@120dpi" x="544" y="9" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080@120dpi" x="962" y="457" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080@120dpi" x="413" y="155" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080@120dpi" x="600" y="283" />
+    <location key="#com.intellij.ide.util.TreeClassChooserDialog.0.0.1920.1080@120dpi" x="626" y="250" />
+    <location key="#com.intellij.ide.util.TreeClassChooserDialog.1920.-840.1080.1920@120dpi" x="2123" y="-109" />
+    <location key="#Compiler.1920.-840.1080.1920@120dpi" x="1920" y="-207" />
+    <location key="GitCloneDialog.1920.-840.1080.1920@120dpi" x="2061" y="-83" />
+    <location key="NewModule_or_Project.wizard.1920.-840.1080.1920@120dpi" x="1972" y="-413" />
+    <location key="Vcs.Push.Dialog.1920.-840.1080.1920@120dpi" x="2060" y="-238" />
+    <location key="CommitChangelistDialog2.1920.-840.1080.1920@120dpi" x="1920" y="-380" />
+    <location key="#Notifications.1920.-840.1080.1920@120dpi" x="2146" y="-252" />
+    <location key="CommitChangelistDialog2.0.0.1920.1080@120dpi" x="380" y="40" />
+    <location key="Vcs.Push.Dialog.0.0.1920.1080@120dpi" x="560" y="182" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1920.1080@120dpi" x="1114" y="339" />
+    <location key="SettingsEditor.0.0.1920.1080@120dpi" x="622" y="0" />
+    <location key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog.1920.-840.1080.1920@120dpi" x="2251" y="-235" />
+    <size key="com.intellij.ide.util.TipDialog.1920.-840.1080.1920@120dpi" width="576" height="372" />
+    <size key="GridCell.Tab.0.left.1920.-840.1080.1920@120dpi" width="1022" height="538" />
+    <size key="GridCell.Tab.0.center.1920.-840.1080.1920@120dpi" width="1022" height="538" />
+    <size key="GridCell.Tab.0.right.1920.-840.1080.1920@120dpi" width="1022" height="538" />
+    <size key="GridCell.Tab.0.bottom.1920.-840.1080.1920@120dpi" width="1022" height="538" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080@120dpi" width="1862" height="210" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080@120dpi" width="1862" height="210" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080@120dpi" width="1862" height="210" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@120dpi" width="1862" height="210" />
+    <size key="#Compiler.1920.-840.1080.1920@120dpi" width="1080" height="646" />
+    <size key="NewModule_or_Project.wizard.0.0.1920.1080@120dpi" width="891" height="896" />
+    <size key="GitCloneDialog.1920.-840.1080.1920@120dpi" width="657" height="317" />
+  </component>
+</application>

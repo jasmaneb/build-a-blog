@@ -1,0 +1,79 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/lc101/IdeaProjects/cheese-mvc" />
+        <option value="$USER_HOME$/lc101/IdeaProjects/hello-spring" />
+        <option value="$USER_HOME$/lc101/IdeaProjects/techjobs-console-java" />
+        <option value="$USER_HOME$/lc101/IdeaProjects/java-exercises" />
+        <option value="$USER_HOME$/IdeaProjects/HelloWorld" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/lc101/IdeaProjects/hello-spring" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/lc101/IdeaProjects/cheese-mvc" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/HelloWorld">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-172.4343.14" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1509648457823" />
+              <option name="buildTimestamp" value="1506406701615" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/lc101/IdeaProjects/cheese-mvc">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-172.4343.14" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1510889644701" />
+              <option name="buildTimestamp" value="1506406682637" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/lc101/IdeaProjects/hello-spring">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-172.4343.14" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1510876871190" />
+              <option name="buildTimestamp" value="1506406682637" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/lc101/IdeaProjects/java-exercises">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-172.4343.14" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1510867433684" />
+              <option name="buildTimestamp" value="1506406682637" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/lc101/IdeaProjects/techjobs-console-java">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-172.4343.14" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1510875770688" />
+              <option name="buildTimestamp" value="1506406682637" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/lc101/IdeaProjects" />
+  </component>
+</application>

@@ -1,0 +1,1 @@
+BullseyeCoverage 8.13.13 error 15: Cannot find C:\Users\cn118198\Desktop/test.cov. COVFILE is not set, errno=2. Executable is C:\Users\cn118198\AppData\Local\join.me\join.me.exe
