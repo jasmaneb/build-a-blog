@@ -10,7 +10,7 @@
       <entry action="ChangesView.AddUnversioned.From.Dialog" count="1" />
       <entry action="ChangesView.Refresh" count="1" />
       <entry action="CheckinFiles" count="2" />
-      <entry action="CheckinProject" count="5" />
+      <entry action="CheckinProject" count="6" />
       <entry action="ChooseRunConfiguration" count="1" />
       <entry action="CloseProject" count="14" />
       <entry action="ConfigureIcs" count="1" />

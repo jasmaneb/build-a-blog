@@ -13,7 +13,7 @@
     <property name="ExpandBeforeRunStepsPanel" value="true" />
     <property name="ignore.ide.set.hidpi.mode" value="true" />
     <property name="create.project.preferred.importer" value="Gradle" />
-    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.65954775" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.67211056" />
     <property name="last.imported.location" value="$USER_HOME$/lc101/IdeaProjects/cheese-mvc" />
     <property name="gradle.runner.text.console_str" value="false" />
   </component>
