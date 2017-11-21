@@ -3,15 +3,15 @@
     <option name="recentPaths">
       <list>
         <option value="$USER_HOME$/lc101/IdeaProjects/cheese-mvc" />
-        <option value="$USER_HOME$/lc101/IdeaProjects/hello-spring" />
         <option value="$USER_HOME$/lc101/IdeaProjects/techjobs-console-java" />
+        <option value="$USER_HOME$/lc101/IdeaProjects/hello-spring" />
         <option value="$USER_HOME$/lc101/IdeaProjects/java-exercises" />
         <option value="$USER_HOME$/IdeaProjects/HelloWorld" />
       </list>
     </option>
     <option name="openPaths">
       <list>
-        <option value="$USER_HOME$/lc101/IdeaProjects/hello-spring" />
+        <option value="$USER_HOME$/lc101/IdeaProjects/techjobs-console-java" />
       </list>
     </option>
     <option name="lastPath" value="$USER_HOME$/lc101/IdeaProjects/cheese-mvc" />
@@ -34,8 +34,8 @@
               <option name="build" value="IC-172.4343.14" />
               <option name="productionCode" value="IC" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1510889644701" />
-              <option name="buildTimestamp" value="1506406682637" />
+              <option name="projectOpenTimestamp" value="1511273245698" />
+              <option name="buildTimestamp" value="1506406720419" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -45,8 +45,8 @@
               <option name="build" value="IC-172.4343.14" />
               <option name="productionCode" value="IC" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1510876871190" />
-              <option name="buildTimestamp" value="1506406682637" />
+              <option name="projectOpenTimestamp" value="1511119098226" />
+              <option name="buildTimestamp" value="1506406722309" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -67,8 +67,8 @@
               <option name="build" value="IC-172.4343.14" />
               <option name="productionCode" value="IC" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1510875770688" />
-              <option name="buildTimestamp" value="1506406682637" />
+              <option name="projectOpenTimestamp" value="1511119236529" />
+              <option name="buildTimestamp" value="1506406693271" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

@@ -2,7 +2,7 @@
   <component name="PropertiesComponent">
     <property name="Default.savedEditorTheme" value="_@user_Default" />
     <property name="installed.kotlin.plugin.version" value="1.1.4-release-IJ2017.2-3" />
-    <property name="android-component-compatibility-check" value="1510581498700" />
+    <property name="android-component-compatibility-check" value="1511200143424" />
     <property name="project.wizard.group" value="JAVA_MODULE" />
     <property name="project.wizard.template" value="Java" />
     <property name="file.chooser.recent.files" value="$USER_HOME$/lc101/IdeaProjects/cheese-mvc&#10;C:/Users/cn118198/lc101/IdeaProjects/hello-spring&#10;C:/Program Files/Java/jdk1.8.0_151&#10;C:/Users/cn118198/lc101/IdeaProjects&#10;C:/Program Files/Java/jdk-9.0.1" />
@@ -13,8 +13,10 @@
     <property name="ExpandBeforeRunStepsPanel" value="true" />
     <property name="ignore.ide.set.hidpi.mode" value="true" />
     <property name="create.project.preferred.importer" value="Gradle" />
-    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.67211056" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.7248744" />
     <property name="last.imported.location" value="$USER_HOME$/lc101/IdeaProjects/cheese-mvc" />
     <property name="gradle.runner.text.console_str" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="Thymeleaf" />
+    <property name="search.everywhere.max.popup.width" value="770" />
   </component>
 </application>

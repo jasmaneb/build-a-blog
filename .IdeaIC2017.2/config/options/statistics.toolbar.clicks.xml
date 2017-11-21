@@ -1,18 +1,24 @@
 <application>
   <component name="ToolbarClicksCollector">
     <counts>
+      <entry action="ChangesView.AddUnversioned.From.Dialog@SPECIFIC_FILES_DIALOG" count="1" />
+      <entry action="Debug@NavBarToolbar" count="3" />
       <entry action="ExternalSystem.ExpandAll@Gradle_View_Toolbar" count="1" />
       <entry action="ExternalSystem.ShowSettings@Gradle_View_Toolbar" count="1" />
       <entry action="FileChooser.GotoDesktop@FileChooserDialog" count="2" />
       <entry action="FileChooser.GotoHome@FileChooserDialog" count="1" />
       <entry action="FileChooser.Refresh@FileChooserDialog" count="1" />
       <entry action="Gradle.ExecuteTask@Gradle_View_Toolbar" count="1" />
-      <entry action="Rerun@RunnerToolbar" count="1" />
-      <entry action="Run@NavBarToolbar" count="188" />
-      <entry action="Stop@NavBarToolbar" count="47" />
-      <entry action="Stop@RunnerToolbar" count="2" />
+      <entry action="Rerun@DebuggerToolbar" count="1" />
+      <entry action="Rerun@RunnerToolbar" count="26" />
+      <entry action="Resume@DebuggerToolbar" count="1" />
+      <entry action="Run@NavBarToolbar" count="229" />
+      <entry action="StepOver@DebuggerToolbar" count="3" />
+      <entry action="Stop@NavBarToolbar" count="74" />
+      <entry action="Stop@RunnerToolbar" count="7" />
       <entry action="com.intellij.compiler.impl.CompilerPropertiesAction@CompilerMessagesToolbar" count="1" />
       <entry action="com.intellij.execution.console.DuplexConsoleView$SwitchDuplexConsoleViewAction@RunnerToolbar" count="3" />
+      <entry action="com.intellij.ide.fileTemplates.impl.AllFileTemplatesConfigurable$6@FileTemplatesConfigurable" count="1" />
       <entry action="com.intellij.notification.EventLogToolWindowFactory$EditNotificationSettings@EventLog" count="1" />
       <entry action="com.intellij.openapi.vcs.changes.ChangesViewManager$ToggleDetailsAction@ChangesViewToolbar" count="2" />
       <entry action="com.intellij.ui.AnActionButton$AnActionButtonWrapper@ToolbarDecorator" count="1" />
