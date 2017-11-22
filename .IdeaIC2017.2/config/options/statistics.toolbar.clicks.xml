@@ -10,14 +10,15 @@
       <entry action="FileChooser.Refresh@FileChooserDialog" count="1" />
       <entry action="Gradle.ExecuteTask@Gradle_View_Toolbar" count="1" />
       <entry action="Rerun@DebuggerToolbar" count="1" />
-      <entry action="Rerun@RunnerToolbar" count="26" />
+      <entry action="Rerun@RunnerToolbar" count="28" />
       <entry action="Resume@DebuggerToolbar" count="1" />
-      <entry action="Run@NavBarToolbar" count="229" />
+      <entry action="Run@NavBarToolbar" count="233" />
       <entry action="StepOver@DebuggerToolbar" count="3" />
       <entry action="Stop@NavBarToolbar" count="74" />
-      <entry action="Stop@RunnerToolbar" count="7" />
+      <entry action="Stop@RunnerToolbar" count="9" />
       <entry action="com.intellij.compiler.impl.CompilerPropertiesAction@CompilerMessagesToolbar" count="1" />
       <entry action="com.intellij.execution.console.DuplexConsoleView$SwitchDuplexConsoleViewAction@RunnerToolbar" count="3" />
+      <entry action="com.intellij.execution.ui.actions.CloseAction@RunnerToolbar" count="1" />
       <entry action="com.intellij.ide.fileTemplates.impl.AllFileTemplatesConfigurable$6@FileTemplatesConfigurable" count="1" />
       <entry action="com.intellij.notification.EventLogToolWindowFactory$EditNotificationSettings@EventLog" count="1" />
       <entry action="com.intellij.openapi.vcs.changes.ChangesViewManager$ToggleDetailsAction@ChangesViewToolbar" count="2" />

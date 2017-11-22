@@ -11,7 +11,7 @@
     </option>
     <option name="openPaths">
       <list>
-        <option value="$USER_HOME$/lc101/IdeaProjects/techjobs-console-java" />
+        <option value="$USER_HOME$/lc101/IdeaProjects/cheese-mvc" />
       </list>
     </option>
     <option name="lastPath" value="$USER_HOME$/lc101/IdeaProjects/cheese-mvc" />
@@ -34,8 +34,8 @@
               <option name="build" value="IC-172.4343.14" />
               <option name="productionCode" value="IC" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1511273245698" />
-              <option name="buildTimestamp" value="1506406720419" />
+              <option name="projectOpenTimestamp" value="1511374652277" />
+              <option name="buildTimestamp" value="1506406685355" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
