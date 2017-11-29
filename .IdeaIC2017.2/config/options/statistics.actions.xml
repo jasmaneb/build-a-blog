@@ -1,40 +1,40 @@
 <application>
   <component name="ActionsCollector">
     <counts>
-      <entry action="$Copy" count="20" />
+      <entry action="$Copy" count="25" />
       <entry action="$Cut" count="3" />
       <entry action="$Delete" count="2" />
       <entry action="$Paste" count="1" />
-      <entry action="$Redo" count="119" />
-      <entry action="$SelectAll" count="14" />
-      <entry action="$Undo" count="724" />
+      <entry action="$Redo" count="121" />
+      <entry action="$SelectAll" count="16" />
+      <entry action="$Undo" count="844" />
       <entry action="ChangesView.AddUnversioned.From.Dialog" count="3" />
       <entry action="ChangesView.Refresh" count="1" />
       <entry action="CheckinFiles" count="2" />
-      <entry action="CheckinProject" count="10" />
+      <entry action="CheckinProject" count="11" />
       <entry action="ChooseRunConfiguration" count="1" />
-      <entry action="CloseProject" count="14" />
+      <entry action="CloseProject" count="15" />
       <entry action="ConfigureIcs" count="1" />
       <entry action="Debug" count="3" />
-      <entry action="EditorBackSpace" count="2914" />
-      <entry action="EditorChooseLookupItem" count="341" />
-      <entry action="EditorCopy" count="44" />
-      <entry action="EditorCut" count="31" />
-      <entry action="EditorDelete" count="1348" />
-      <entry action="EditorDown" count="739" />
-      <entry action="EditorEnter" count="479" />
-      <entry action="EditorEscape" count="13" />
-      <entry action="EditorIndentSelection" count="10" />
-      <entry action="EditorLeft" count="1225" />
-      <entry action="EditorLineEnd" count="119" />
-      <entry action="EditorLineStart" count="18" />
-      <entry action="EditorPaste" count="96" />
-      <entry action="EditorRight" count="1372" />
+      <entry action="EditorBackSpace" count="3504" />
+      <entry action="EditorChooseLookupItem" count="422" />
+      <entry action="EditorCopy" count="51" />
+      <entry action="EditorCut" count="32" />
+      <entry action="EditorDelete" count="1761" />
+      <entry action="EditorDown" count="851" />
+      <entry action="EditorEnter" count="583" />
+      <entry action="EditorEscape" count="17" />
+      <entry action="EditorIndentSelection" count="11" />
+      <entry action="EditorLeft" count="1484" />
+      <entry action="EditorLineEnd" count="148" />
+      <entry action="EditorLineStart" count="27" />
+      <entry action="EditorPaste" count="113" />
+      <entry action="EditorRight" count="1559" />
       <entry action="EditorSplitLine" count="2" />
-      <entry action="EditorStartNewLine" count="5" />
-      <entry action="EditorTab" count="108" />
-      <entry action="EditorUnindentSelection" count="6" />
-      <entry action="EditorUp" count="392" />
+      <entry action="EditorStartNewLine" count="6" />
+      <entry action="EditorTab" count="115" />
+      <entry action="EditorUnindentSelection" count="20" />
+      <entry action="EditorUp" count="488" />
       <entry action="ExportSettings" count="1" />
       <entry action="ExternalSystem.ExpandAll" count="1" />
       <entry action="ExternalSystem.GroupTasks" count="2" />
@@ -53,8 +53,8 @@
       <entry action="InspectCode" count="1" />
       <entry action="IntroduceConstant" count="1" />
       <entry action="Move" count="2" />
-      <entry action="NewClass" count="15" />
-      <entry action="NewDir" count="8" />
+      <entry action="NewClass" count="17" />
+      <entry action="NewDir" count="9" />
       <entry action="NewFile" count="2" />
       <entry action="NewHtmlFile" count="4" />
       <entry action="RecentChanges" count="1" />
@@ -62,19 +62,19 @@
       <entry action="RenameFile" count="1" />
       <entry action="Rerun" count="29" />
       <entry action="Resume" count="1" />
-      <entry action="Run" count="233" />
+      <entry action="Run" count="244" />
       <entry action="RunClass" count="2" />
-      <entry action="SaveAll" count="278" />
+      <entry action="SaveAll" count="293" />
       <entry action="SearchEverywhere" count="4" />
       <entry action="ShowIntentionActions" count="7" />
       <entry action="ShowSettings" count="2" />
       <entry action="Start.Use.Vcs" count="1" />
       <entry action="StepOver" count="3" />
-      <entry action="Stop" count="83" />
+      <entry action="Stop" count="91" />
       <entry action="TemplateProjectProperties" count="2" />
       <entry action="TemplateProjectStructure" count="5" />
       <entry action="ToggleLineBreakpoint" count="32" />
-      <entry action="Vcs.Push" count="6" />
+      <entry action="Vcs.Push" count="7" />
       <entry action="ViewToolBar" count="2" />
       <entry action="editRunConfigurations" count="22" />
     </counts>

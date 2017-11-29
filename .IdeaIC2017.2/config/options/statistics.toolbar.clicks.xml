@@ -12,10 +12,10 @@
       <entry action="Rerun@DebuggerToolbar" count="1" />
       <entry action="Rerun@RunnerToolbar" count="28" />
       <entry action="Resume@DebuggerToolbar" count="1" />
-      <entry action="Run@NavBarToolbar" count="233" />
+      <entry action="Run@NavBarToolbar" count="244" />
       <entry action="StepOver@DebuggerToolbar" count="3" />
-      <entry action="Stop@NavBarToolbar" count="74" />
-      <entry action="Stop@RunnerToolbar" count="9" />
+      <entry action="Stop@NavBarToolbar" count="80" />
+      <entry action="Stop@RunnerToolbar" count="11" />
       <entry action="com.intellij.compiler.impl.CompilerPropertiesAction@CompilerMessagesToolbar" count="1" />
       <entry action="com.intellij.execution.console.DuplexConsoleView$SwitchDuplexConsoleViewAction@RunnerToolbar" count="3" />
       <entry action="com.intellij.execution.ui.actions.CloseAction@RunnerToolbar" count="1" />

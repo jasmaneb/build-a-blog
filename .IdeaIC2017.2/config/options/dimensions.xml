@@ -2,7 +2,7 @@
   <component name="DimensionService">
     <location key="FileChooserDialogImpl.1920.-840.1080.1920@120dpi" x="2155" y="-248" />
     <location key="new project wizard.1920.-840.1080.1920@120dpi" x="2050" y="-423" />
-    <location key="WELCOME_SCREEN.1920.-840.1080.1920@120dpi" x="2513" y="-19" />
+    <location key="WELCOME_SCREEN.1920.-840.1080.1920@120dpi" x="2427" y="700" />
     <location key="com.intellij.ide.util.TipDialog.1920.-840.1080.1920@120dpi" x="2283" y="83" />
     <location key="#com.intellij.execution.impl.EditConfigurationsDialog.1920.-840.1080.1920@120dpi" x="1920" y="-409" />
     <location key="SettingsEditor.1920.-840.1080.1920@120dpi" x="1920" y="-58" />
@@ -28,6 +28,7 @@
     <location key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog.1920.-840.1080.1920@120dpi" x="2012" y="-256" />
     <location key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog.0.0.1920.1080@120dpi" x="994" y="389" />
     <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1920.1080@120dpi" x="1015" y="205" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.1920.-840.1080.1920@120dpi" x="2126" y="-215" />
     <size key="com.intellij.ide.util.TipDialog.1920.-840.1080.1920@120dpi" width="576" height="372" />
     <size key="GridCell.Tab.0.left.1920.-840.1080.1920@120dpi" width="1022" height="699" />
     <size key="GridCell.Tab.0.center.1920.-840.1080.1920@120dpi" width="1022" height="699" />
